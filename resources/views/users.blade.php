@@ -47,6 +47,6 @@
         </table>
       </div>    
     </div>
-    <footer class="text-center text-sm mt-28">Alvaro Diaz - Práctica 5</footer>
+    <footer class="text-center text-sm mt-28">Alvaro Diaz - Práctica 5 </footer>
 </body>
 </html>
